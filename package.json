@@ -1,0 +1,26 @@
+{
+  "name": "meteorite-landing-visualization",
+  "version": "1.0.0",
+  "description": "Meteorite Landing visualization using D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanushuUzumaki/meteorite-landing-visualization.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "D3"
+  ],
+  "author": "Dhanushu Uzumaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhanushuUzumaki/meteorite-landing-visualization/issues"
+  },
+  "homepage": "https://github.com/dhanushuUzumaki/meteorite-landing-visualization#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
